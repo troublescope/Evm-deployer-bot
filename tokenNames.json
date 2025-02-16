@@ -3,10 +3,17 @@
     "Crypto", "Meta", "Block", "Chain", "Bit", "Neo", "Quantum", "Digital", "Hyper", "Eco",
     "Stellar", "Galaxy", "Lunar", "Solar", "Astro", "Nitro", "Fusion", "Vortex", "Eternal", "Prime",
     "Nova", "Alpha", "Omega", "Zenith", "Phantom", "Thunder", "Infinite", "Atomic", "Cyber", "Nebula",
-    "Synth", "Eon", "Chrono", "Poly", "Omni", "Crypto", "DeFi", "Enigma", "Vivid", "Celestial",
-    "Mystic", "Pinnacle", "Radiant", "Synthetic", "Turbo", "Ultra", "Zephyr", "Onyx", "Terra", "Nexa",
+    "Synth", "Eon", "Chrono", "Poly", "Omni", "DeFi", "Enigma", "Vivid", "Celestial", "Mystic",
+    "Pinnacle", "Radiant", "Synthetic", "Turbo", "Ultra", "Zephyr", "Onyx", "Terra", "Nexa",
     "Aurora", "Prism", "Spectral", "Ethereal", "Sovereign", "Vector", "Cipher", "Galactic", "Neon", "Orbital",
-    "Augmented", "Kinetic", "Neoteric", "Optic", "Modular"
+    "Augmented", "Kinetic", "Neoteric", "Optic", "Modular", "Aether", "Bionic", "Circuit", "Dimensional", "Elastic",
+    "Flux", "Graviton", "Holographic", "Illuminated", "Jade", "Kaleidoscopic", "Lucid", "Monolithic", "Nano", "Obsidian",
+    "Paradox", "Quantic", "Resonant", "Singular", "Tectonic", "Utopian", "Verdant", "Whispering", "Xenon", "Yottabyte",
+    "Zodiac", "Aegis", "Basilisk", "Catalytic", "Dynamo", "Eclipsed", "Fractal", "Genesis", "Harmonic", "Infinity",
+    "Junction", "Keystone", "Luminous", "Metaphysical", "Nebulous", "Omnipotent", "Perpetual", "Quantum", "Radial", "Synergistic",
+    "Tranquil", "Uncharted", "Vigilant", "Wavelength", "Xenolithic", "Yielding", "Zen", "Archon", "Brilliant", "Coded",
+    "Decentralized", "Emergent", "Futuristic", "Grand", "Horizon", "Indigo", "Jagged", "Kinetic", "Limitless", "Momentum",
+    "Neural", "Opulent", "Pristine", "Reverberating", "Supreme", "Transcendent", "Ubiquitous", "Vast", "Woven", "Yonder"
   ],
   "nouns": [
     "Coin", "Token", "Finance", "Network", "Protocol", "Asset", "Exchange", "Market", "System", "Ledger",
@@ -15,6 +22,14 @@
     "Dynamo", "Eclipse", "Fractal", "Genesis", "Haven", "Inferno", "Junction", "Keystone", "Lattice", "Mirage",
     "Obelisk", "Pinnacle", "Quasar", "Riddle", "Sentinel", "Titan", "Universe", "Vortex", "Warp", "Zen",
     "Byte", "Algorithm", "Circuit", "Miner", "Chain", "Block", "Hash", "Codex", "Data", "Citadel",
-    "Gateway", "Hub", "Relay", "Anchor", "Terminal"
+    "Gateway", "Hub", "Relay", "Anchor", "Terminal", "Signal", "Beacon", "Vanguard", "Epoch", "Chronicle",
+    "Odyssey", "Momentum", "Tesseract", "Crypt", "Ark", "Vision", "Vault", "Elixir", "Flux", "Module",
+    "Oracle", "Beacon", "Spectrum", "Momentum", "Reactor", "Nebula", "Quanta", "Synergy", "Vertex", "Xenith",
+    "Oscillation", "Palindrome", "Traverse", "Zircon", "Atom", "Bridges", "Conduit", "Dynasty", "Ether", "Fractal",
+    "Gateway", "Horizon", "Illusion", "Jigsaw", "Kernel", "Limit", "Momentum", "Nomad", "Oracle", "Parity",
+    "Quantum", "Resonance", "Singularity", "Tesseract", "Umbra", "Vector", "Wavelength", "Xenon", "Yield", "Zenith",
+    "Aether", "Beacon", "Catalyst", "Divinity", "Essence", "Fusion", "Genesis", "Hologram", "Infinity", "Junction",
+    "Keystone", "Legend", "Miracle", "Nucleus", "Omniverse", "Paradigm", "Quark", "Rift", "Sanctuary", "Timeless",
+    "Unity", "Voyager", "Wonder", "Xylo", "Yearning", "Zephyr"
   ]
 }
