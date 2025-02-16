@@ -2,10 +2,11 @@ require('colors');
 const ethers = require('ethers');
 const { generateContractCode } = require('./contractCode');
 
-async function deployContract(network, name, symbol, supply) {
+async function deployContract(network, name, symbol, supply, privateKey) {
   try {
     const provider = new ethers.JsonRpcProvider(network.rpcUrl);
-    const wallet = new ethers.Wallet(process.env.PRIVATE_KEY, provider);
+    // Gunakan privateKey yang diberikan; jika tidak ada, fallback ke process.env.PRIVATE_KEY
+    const wallet = new ethers.Wallet(privateKey || process.env.PRIVATE_KEY, provider);
 
     console.log(`\nDeploying contract to ${network.name}...`.yellow);
 
@@ -22,7 +23,7 @@ async function deployContract(network, name, symbol, supply) {
     return contract.target;
   } catch (error) {
     console.error(`Error deploying contract: ${error.message}`.red);
-    process.exit(1);
+    throw error;
   }
 }
 
