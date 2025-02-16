@@ -1,0 +1,20 @@
+{
+  "adjectives": [
+    "Crypto", "Meta", "Block", "Chain", "Bit", "Neo", "Quantum", "Digital", "Hyper", "Eco",
+    "Stellar", "Galaxy", "Lunar", "Solar", "Astro", "Nitro", "Fusion", "Vortex", "Eternal", "Prime",
+    "Nova", "Alpha", "Omega", "Zenith", "Phantom", "Thunder", "Infinite", "Atomic", "Cyber", "Nebula",
+    "Synth", "Eon", "Chrono", "Poly", "Omni", "Crypto", "DeFi", "Enigma", "Vivid", "Celestial",
+    "Mystic", "Pinnacle", "Radiant", "Synthetic", "Turbo", "Ultra", "Zephyr", "Onyx", "Terra", "Nexa",
+    "Aurora", "Prism", "Spectral", "Ethereal", "Sovereign", "Vector", "Cipher", "Galactic", "Neon", "Orbital",
+    "Augmented", "Kinetic", "Neoteric", "Optic", "Modular"
+  ],
+  "nouns": [
+    "Coin", "Token", "Finance", "Network", "Protocol", "Asset", "Exchange", "Market", "System", "Ledger",
+    "Vault", "Node", "Spark", "Pulse", "Orbit", "Matrix", "Stream", "Edge", "Core", "Sphere",
+    "Crest", "Apex", "Beacon", "Nexus", "Forge", "Grid", "Horizon", "Infinity", "Momentum", "Catalyst",
+    "Dynamo", "Eclipse", "Fractal", "Genesis", "Haven", "Inferno", "Junction", "Keystone", "Lattice", "Mirage",
+    "Obelisk", "Pinnacle", "Quasar", "Riddle", "Sentinel", "Titan", "Universe", "Vortex", "Warp", "Zen",
+    "Byte", "Algorithm", "Circuit", "Miner", "Chain", "Block", "Hash", "Codex", "Data", "Citadel",
+    "Gateway", "Hub", "Relay", "Anchor", "Terminal"
+  ]
+}

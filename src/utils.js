@@ -24,8 +24,6 @@ function displayHeader() {
   process.stdout.write('\x1Bc');
   console.log('========================================'.rainbow);
   console.log('=       🚀🎮 EVM Auto Deploy 🎮🚀      ='.cyan.bold);
-  console.log('=    Created by HappyCuanAirdrop 🧙‍♂️   ='.magenta);
-  console.log('=   https://t.me/HappyCuanAirdrop 🌐   ='.blue);
   console.log('========================================'.rainbow);
   console.log();
 }
